@@ -29,9 +29,12 @@ while(True):
 		break
 	else:
 		temp=translate(word)
-		for i in temp:
-			print(i)
-		#print(translate(word)) 
+		if type(temp)==list:
+			for i in temp:
+				print(i)
+		else:
+			print(temp)
+
 		
 
 		 	 
