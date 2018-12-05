@@ -2,13 +2,6 @@
 
 Mapee is a Python program for creating  a webpage with layers using folium.
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
 
 ## Built With
 
