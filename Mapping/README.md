@@ -13,7 +13,7 @@ Pull requests are welcome.
 
 ## Authors
 
-* **Akik Jana** - *Initial work* - [PurpleBooth](https://github.com/AkikJana)
+* **Akik Jana** - *Initial work* - [AkikJana](https://github.com/AkikJana)
 
 ## Acknowledgments
 
